@@ -5,7 +5,7 @@ const projectList = [
   { 
     name: "AnimalSay", 
     description: "Python module for ASCII animal art + moods", 
-    link: "#",
+    link: "https://github.com/swe-students-fall2025/3-python-package-team_jubilee",
     technologies: ["Python", "Pytest", "YAML"] 
   },
   { 
@@ -24,7 +24,7 @@ const projectList = [
   { 
     name: "Pawsome Companion", 
     description: "Pet adoption website, analyzes web traffic with Google Analytics", 
-    link: "#",
+    link: "https://github.com/gracehe04/mypawsomecompanion",
     technologies: ["React", "TypeScript", "HTML", "CSS", "Google Analytics", "Google Tag Manager"]
   },
   { 
