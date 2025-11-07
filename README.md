@@ -22,8 +22,8 @@ Checkout the deployed site here: https://gracehe04.github.io/personal-portfolio/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/yourusername/personal-portfolio.git
+cd personal-portfolio
 ```
 ### 2️⃣ Install dependencies
 
