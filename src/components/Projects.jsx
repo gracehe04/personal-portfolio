@@ -6,7 +6,7 @@ const projectList = [
     {
     name: "PantryPal",
     description: "Generate recipes based on the ingredients you have available in your pantry",
-    link: "https://github.com/swe-students-fall2025/4-containers-the-lego-movie",
+    link: "https://github.com/swe-students-fall2025/5-final-galls",
     deployment: "http://138.197.30.226:5001/" ,
     technologies: ["Python", "FastAPI", "Flask", "JavaScript", "MongoDB","Pytest", "HTML", "CSS",]
   },
